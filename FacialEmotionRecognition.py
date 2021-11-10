@@ -11,7 +11,7 @@ size = (48,48) #size一致統一為48*48
 
 #%% 
 labels=['norm','happy','bored','confuse','focus','frustration','suprise']
-base_path = r'C:\Users\qwasd\OneDrive\桌面\123'
+base_path = r'123'
 layers_of_folders=0
 folder_list=[]
 if base_path :
